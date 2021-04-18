@@ -139,7 +139,7 @@ function makePalette(size) {
 
 class Donut {
   constructor(canvas, {
-      scale = 8,
+      scale = 6,
       size = 80,
       distance = 30,
       colors = 10,
